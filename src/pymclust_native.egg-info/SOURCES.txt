@@ -1,6 +1,7 @@
 README.md
 pyproject.toml
 src/pymclust_native/__init__.py
+src/pymclust_native/api.py
 src/pymclust_native/covariance.py
 src/pymclust_native/em.py
 src/pymclust_native/models.py
@@ -9,4 +10,13 @@ src/pymclust_native.egg-info/SOURCES.txt
 src/pymclust_native.egg-info/dependency_links.txt
 src/pymclust_native.egg-info/requires.txt
 src/pymclust_native.egg-info/top_level.txt
+tests/test_api_basic.py
+tests/test_configurable_stability.py
+tests/test_eee.py
+tests/test_icl_vei_evi.py
+tests/test_init_selection.py
+tests/test_models_parametric.py
+tests/test_new_families_basic.py
+tests/test_new_families_structure.py
+tests/test_regression_against_mclust.py
 tests/test_sanity.py
