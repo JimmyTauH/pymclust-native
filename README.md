@@ -69,5 +69,10 @@ Run tests
 Backend & integration (planned)
 - Backend abstraction for NumPy/PyTorch/JIT will be introduced to ease integration with data science and deep learning frameworks.
 
-License
+License and Credits
 - Reimplementation inspired by mclust (GPL-licensed)
+- Original R package copyright (c) Chris Fraley, Adrian E. Raftery, Luca Scrucca (maintainer), Thomas Brendan Murphy, Michael Fop
+- Python port copyright (c) Zhentao He
+
+Citation
+- Scrucca L, Fraley C, Murphy TB, Raftery AE (2023). Model-Based Clustering, Classification, and Density Estimation Using mclust in R. Chapman and Hall/CRC. ISBN 978-1032234953, doi:10.1201/9781003277965, https://mclust-org.github.io/book/.
