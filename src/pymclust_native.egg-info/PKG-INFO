@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: pymclust-native
+Version: 0.0.1
+Summary: Native Python reimplementation of mclust (Gaussian mixture modelling for clustering, classification, and density estimation)
+Author-email: Your Name <you@example.com>
+Project-URL: Homepage, https://example.com/pymclust-native
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.10
+
+pymclust-native
+=================
+
+Native Python reimplementation of the R package mclust.
+
+Goals
+- Feature parity for Gaussian mixture modelling core: model-based clustering, classification, density estimation.
+- Support for common covariance parameterizations from mclust (EII, VII, EEI, VEI, EVI, VVI, EEE, EVE, VEE, VVE, EVV, VVV).
+- Model selection via BIC (and later ICL).
+
+Status
+- Early scaffold. APIs subject to change.
+
+Development
+- Python >= 3.9
+- Dependencies: numpy, scipy
+- Tests: pytest

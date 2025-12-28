@@ -1,0 +1,8 @@
+{"dataset_id": "ds_0000", "path": "pymclust-native/.bench_data/ds_0000.npz", "seed": 1, "n": 300, "d": 2, "G": 2}
+{"dataset_id": "ds_0001", "path": "pymclust-native/.bench_data/ds_0001.npz", "seed": 1, "n": 300, "d": 2, "G": 3}
+{"dataset_id": "ds_0002", "path": "pymclust-native/.bench_data/ds_0002.npz", "seed": 1, "n": 300, "d": 3, "G": 2}
+{"dataset_id": "ds_0003", "path": "pymclust-native/.bench_data/ds_0003.npz", "seed": 1, "n": 300, "d": 3, "G": 3}
+{"dataset_id": "ds_0004", "path": "pymclust-native/.bench_data/ds_0004.npz", "seed": 2, "n": 300, "d": 2, "G": 2}
+{"dataset_id": "ds_0005", "path": "pymclust-native/.bench_data/ds_0005.npz", "seed": 2, "n": 300, "d": 2, "G": 3}
+{"dataset_id": "ds_0006", "path": "pymclust-native/.bench_data/ds_0006.npz", "seed": 2, "n": 300, "d": 3, "G": 2}
+{"dataset_id": "ds_0007", "path": "pymclust-native/.bench_data/ds_0007.npz", "seed": 2, "n": 300, "d": 3, "G": 3}
